@@ -2,10 +2,12 @@ import java.util.*;
 class Solution {
     public int majorityElement(int[] nums) {
         HashMap<Integer,Integer> map=new HashMap<>();
-        for(int num:nums){
+        for(int i=0;i<nums.length;i++) {
+            int num =nums[i];
             map.put(num,map.getOrDefault(num,0)+1);
         }
-        for(int num:nums){
+        for(int i=0 ;i<nums.length;i++){
+            int num =nums[i];
             if(map.get(num)>nums.length/2){
                 return num;
             }
