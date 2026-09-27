@@ -1,13 +1,13 @@
 class Solution {
     public long zeroFilledSubarray(int[] nums) {
+        int cons =0;
         long answer =0;
-        int consecutive =0;
-        for(int k=0;k<nums.length;k++){
-            if(nums[k]==0){
-                consecutive++;
-                answer +=consecutive;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==0){
+                cons++;
+                answer +=cons;
             }else{
-                consecutive=0;
+                cons =0;
             }
         }
         return answer;
