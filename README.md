@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jitheshkumar2401059/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/jitheshkumar2401059/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jitheshkumar2401059/leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/jitheshkumar2401059/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jitheshkumar2401059/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jitheshkumar2401059/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/jitheshkumar2401059/leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/jitheshkumar2401059/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/jitheshkumar2401059/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
