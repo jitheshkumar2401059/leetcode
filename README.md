@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jitheshkumar2401059/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jitheshkumar2401059/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/jitheshkumar2401059/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0724-find-pivot-index](https://github.com/jitheshkumar2401059/leetcode/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/jitheshkumar2401059/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/jitheshkumar2401059/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jitheshkumar2401059/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/jitheshkumar2401059/leetcode/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
