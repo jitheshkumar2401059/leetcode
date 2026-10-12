@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jitheshkumar2401059/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jitheshkumar2401059/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/jitheshkumar2401059/leetcode/tree/master/0041-first-missing-positive) |
+| [0088-merge-sorted-array](https://github.com/jitheshkumar2401059/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jitheshkumar2401059/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jitheshkumar2401059/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/jitheshkumar2401059/leetcode/tree/master/0169-majority-element) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jitheshkumar2401059/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jitheshkumar2401059/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jitheshkumar2401059/leetcode/tree/master/0242-valid-anagram) |
 ## Counting
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jitheshkumar2401059/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/jitheshkumar2401059/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jitheshkumar2401059/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/jitheshkumar2401059/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jitheshkumar2401059/leetcode/tree/master/0283-move-zeroes) |
