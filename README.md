@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jitheshkumar2401059/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jitheshkumar2401059/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/jitheshkumar2401059/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jitheshkumar2401059/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/jitheshkumar2401059/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/jitheshkumar2401059/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/jitheshkumar2401059/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/jitheshkumar2401059/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jitheshkumar2401059/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jitheshkumar2401059/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jitheshkumar2401059/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jitheshkumar2401059/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jitheshkumar2401059/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/0268-missing-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/jitheshkumar2401059/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Prefix Sum
 |  |
@@ -93,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/jitheshkumar2401059/leetcode/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
