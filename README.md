@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/jitheshkumar2401059/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/jitheshkumar2401059/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/jitheshkumar2401059/leetcode/tree/master/0724-find-pivot-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/jitheshkumar2401059/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/jitheshkumar2401059/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jitheshkumar2401059/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jitheshkumar2401059/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jitheshkumar2401059/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jitheshkumar2401059/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jitheshkumar2401059/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
